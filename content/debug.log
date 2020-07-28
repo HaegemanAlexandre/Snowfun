@@ -1,0 +1,11 @@
+[18-Oct-2019 15:24:18 UTC] PHP Fatal error:  Cannot redeclare snowfun_scripts() (previously declared in /var/www/html/snowfunsite/content/themes/snowfun/functions.php:10) in /var/www/html/snowfunsite/content/themes/snowfun/inc/theme-enqueue.php on line 5
+[18-Oct-2019 15:24:20 UTC] PHP Fatal error:  Cannot redeclare snowfun_scripts() (previously declared in /var/www/html/snowfunsite/content/themes/snowfun/functions.php:10) in /var/www/html/snowfunsite/content/themes/snowfun/inc/theme-enqueue.php on line 5
+[18-Oct-2019 15:58:54 UTC] PHP Notice:  Undefined variable: menu in /var/www/html/snowfunsite/content/themes/snowfun/header.php on line 10
+[18-Oct-2019 15:59:51 UTC] PHP Notice:  Undefined variable: menu in /var/www/html/snowfunsite/content/themes/snowfun/header.php on line 10
+[18-Oct-2019 16:00:16 UTC] PHP Notice:  Undefined variable: menu in /var/www/html/snowfunsite/content/themes/snowfun/header.php on line 10
+[18-Oct-2019 16:00:20 UTC] PHP Notice:  Undefined variable: menu in /var/www/html/snowfunsite/content/themes/snowfun/header.php on line 10
+[18-Oct-2019 16:00:20 UTC] PHP Notice:  Undefined variable: menu in /var/www/html/snowfunsite/content/themes/snowfun/header.php on line 10
+[18-Oct-2019 16:00:21 UTC] PHP Notice:  Undefined variable: menu in /var/www/html/snowfunsite/content/themes/snowfun/header.php on line 10
+[29-Oct-2019 13:02:53 UTC] PHP Notice:  Undefined offset: 1 in /var/www/html/snowfunsite/wp/wp-includes/class-wp-query.php on line 3243
+[10-Jan-2020 10:34:31 UTC] PHP Warning:  require(/var/www/html/snowfunsite/content/themes/snowfun/inc/snowfun_home.php): failed to open stream: No such file or directory in /var/www/html/snowfunsite/content/themes/snowfun/functions.php on line 9
+[10-Jan-2020 10:34:31 UTC] PHP Fatal error:  require(): Failed opening required '/var/www/html/snowfunsite/content/themes/snowfun/inc/snowfun_home.php' (include_path='.:/usr/share/php') in /var/www/html/snowfunsite/content/themes/snowfun/functions.php on line 9
