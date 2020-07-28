@@ -1,11 +1,5 @@
-notes/
-.DS_Store
+
 wp-config.php
 vendor/
 wp/
-!/content/themes
-!/content/uploads
-/content/themes/*
-!/content/themes/lafraichevrerie
-!/content/plugins/
-/content/plugins/*
+

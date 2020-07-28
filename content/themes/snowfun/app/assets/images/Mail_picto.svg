@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Mail_picto" transform="translate(-203 -2491)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="25" cy="25" r="25" transform="translate(203 2491)" fill="#006dff"/>
+    <g id="Mail_icn" transform="translate(217.45 2508.245)">
+      <path id="Tracé_28" data-name="Tracé 28" d="M23.57,27.428l9.337-7.653A2.678,2.678,0,0,0,31.3,19.24H14.817a2.678,2.678,0,0,0-1.607.536l9.342,7.653A.8.8,0,0,0,23.57,27.428Z" transform="translate(-12.112 -19.24)" fill="#fff"/>
+      <path id="Tracé_29" data-name="Tracé 29" d="M21.588,33.679a2.41,2.41,0,0,1-3.055,0L9.26,26.08a2.678,2.678,0,0,0-.15.878V38.011a2.707,2.707,0,0,0,2.7,2.7H28.3a2.707,2.707,0,0,0,2.7-2.7V26.958a2.678,2.678,0,0,0-.15-.878Z" transform="translate(-9.11 -24.249)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

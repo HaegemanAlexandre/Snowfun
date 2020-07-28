@@ -1,0 +1,40 @@
+.offres {
+    width: 70%;
+    height: 15em;
+    padding-top: 1em;
+    margin: auto;
+    @media screen and (max-width: 768px) {
+        height:10em;
+        } 
+    h2{
+        text-align: center !important;
+        color: red;
+        padding-bottom: 50px;
+
+
+    }
+    .offre{
+        display: flex;
+        width: 100%;
+        margin: auto;
+        justify-content: space-evenly;
+
+    }
+    .corres{
+        display: flex;
+        width: 100%;
+        margin: auto;
+        justify-content: space-evenly;
+        font-style: italic;
+    }
+
+    .price{
+        color: #006DFF;
+        font-size: 2em;
+        font-style: bold;   
+        @media screen and (max-width: 768px) {
+            font-size: 1em;
+            }      
+    }
+
+}

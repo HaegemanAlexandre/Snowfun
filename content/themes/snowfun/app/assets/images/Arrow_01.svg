@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Arrow_01" transform="translate(-113 -1059)">
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="50" height="50" transform="translate(113 1059)" fill="#006dff"/>
+    <g id="Groupe_7" data-name="Groupe 7" transform="translate(199.594 1222.043) rotate(180)">
+      <g id="Groupe_6" data-name="Groupe 6" transform="translate(50 129.999)">
+        <g id="Groupe_4" data-name="Groupe 4" transform="translate(0 7.55)">
+          <path id="Tracé_26" data-name="Tracé 26" d="M73.122,290.944H50.472a.472.472,0,0,1,0-.944h22.65a.472.472,0,1,1,0,.944Z" transform="translate(-50 -290)" fill="#fff"/>
+        </g>
+        <g id="Groupe_5" data-name="Groupe 5" transform="translate(15.1 0)">
+          <path id="Tracé_27" data-name="Tracé 27" d="M370.472,146.043a.472.472,0,0,1-.334-.806l7.216-7.216-7.216-7.216a.472.472,0,0,1,.667-.667l7.55,7.55a.472.472,0,0,1,0,.667l-7.55,7.55A.471.471,0,0,1,370.472,146.043Z" transform="translate(-370 -129.999)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
